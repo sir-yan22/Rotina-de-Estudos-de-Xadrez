@@ -1,0 +1,5 @@
+{
+  "name": "Chess Training Method",
+  "description": "An application to generate personalized annual chess training plans based on user's level, focus, and available time. It provides weekly schedules, objectives, and a curated bibliography.",
+  "requestFramePermissions": []
+}
